@@ -97,3 +97,12 @@ JWT_SECRET=ini_adalah_kunci_rahasia_jwt_yang_sangat_panjang_dan_aman
 | `JWT_SECRET` | Kunci rahasia untuk enkripsi token JWT. | `kunci_rahasia_yang_aman` |
 
 ---
+## UML
+### ERD
+![alt text](UML/ERD.png)
+
+### Class Diagram
+![alt text](UML/ClassDiagram.png)
+
+### Use Case Diagram
+![alt text](UML/UsecaseDiagram.jpg)
